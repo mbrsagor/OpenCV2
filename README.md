@@ -19,6 +19,7 @@ sorce venv/bin/activate
 - Python 3.8
 - OpenCV-2
 - Numpy
+- PyAutoGUI
 
 #### Installing geospatial libraries
 
