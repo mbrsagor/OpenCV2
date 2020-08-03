@@ -20,6 +20,7 @@ sorce venv/bin/activate
 - OpenCV-2
 - Numpy
 - PyAutoGUI
+- imutils
 
 #### Installing geospatial libraries
 
