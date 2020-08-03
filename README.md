@@ -6,6 +6,13 @@ This project is a simple open cv project. In this project I'm teaching my univer
 
 ###### The following steps will walk you thru installation on a Mac. Linux should be similar.
 
+##### Create virtualenv in your project directory/folder.
+
+````
+virtualenv venv --python=python3.8
+sorce venv/bin/activate
+````
+
 
 ### Dependencies
 
@@ -19,3 +26,7 @@ This project is a simple open cv project. In this project I'm teaching my univer
 pip install opencv-python
 pip install numpy
 ```
+
+###### Install the python dependencies which includes other libraries. Finally run the `App`
+
+``pip install -r requirements.txt``
