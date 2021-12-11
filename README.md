@@ -1,5 +1,5 @@
 # OpenCV2
-This project is a simple open cv project. In this project I'm teaching my university elder brothers.
+This project is a simple open cv project. In this project, I'm teaching my friend's elder brothers and other members.
 
 > Project install instructions
 ##### In the project I'm using `python` latest version. However please follow the documentation.
